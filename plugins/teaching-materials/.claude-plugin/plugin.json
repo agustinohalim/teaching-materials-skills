@@ -1,0 +1,10 @@
+{
+  "name": "teaching-materials",
+  "version": "0.1.0",
+  "description": "RPS-aligned teaching modules, textbooks (buku ajar), and lecture slides for Indonesian higher education",
+  "author": { "name": "Agustino Halim", "url": "https://github.com/agustinohalim" },
+  "homepage": "https://github.com/agustinohalim/teaching-materials-skills",
+  "repository": "https://github.com/agustinohalim/teaching-materials-skills",
+  "license": "CC-BY-4.0",
+  "keywords": ["teaching", "rps", "obe", "buku-ajar", "modul", "slides", "indonesia"]
+}

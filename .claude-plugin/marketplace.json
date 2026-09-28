@@ -1,0 +1,12 @@
+{
+  "name": "teaching-materials-skills",
+  "description": "Claude Code skills for Indonesian university teaching materials: RPS alignment, teaching modules, textbooks (buku ajar), and lecture slides",
+  "owner": { "name": "Agustino Halim", "url": "https://github.com/agustinohalim" },
+  "plugins": [
+    {
+      "name": "teaching-materials",
+      "source": "./plugins/teaching-materials",
+      "description": "RPS-aligned teaching modules, textbooks (buku ajar), and lecture slides for Indonesian higher education"
+    }
+  ]
+}
